@@ -222,7 +222,7 @@ namespace Final_MoviesDB.Db
         public List<Movie> OrderBy(string orderBy)
         {
             List<Movie> searchRes = new List<Movie>();
-            using (cmd = new MySqlCommand("SELECT * FROM Movies order by " + orderBy + " asc", connection)) 
+            using (cmd = new MySqlCommand("SELECT * FROM Movies order by " + orderBy + " desc", connection)) 
             {
                 connection.Open();
                // cmd.Parameters.Add(new MySqlParameter("@orderby", orderBy));  //nes neorderina pagal add parameter, todel i sql tiesiai paduodam teksta

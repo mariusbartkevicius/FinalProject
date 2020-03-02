@@ -1,31 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BartHouse\\Desktop\\Final_MoviesDB2020228\\Final_MoviesDB2020227\\Final_MoviesDB2020223\\Final_MoviesDB\\Final_MoviesDB\\Final_MoviesDB.csproj": {}
+    "C:\\Users\\Marius\\Documents\\Final_MoviesDB\\Final_MoviesDB\\Final_MoviesDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BartHouse\\Desktop\\Final_MoviesDB2020228\\Final_MoviesDB2020227\\Final_MoviesDB2020223\\Final_MoviesDB\\Final_MoviesDB\\Final_MoviesDB.csproj": {
+    "C:\\Users\\Marius\\Documents\\Final_MoviesDB\\Final_MoviesDB\\Final_MoviesDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BartHouse\\Desktop\\Final_MoviesDB2020228\\Final_MoviesDB2020227\\Final_MoviesDB2020223\\Final_MoviesDB\\Final_MoviesDB\\Final_MoviesDB.csproj",
+        "projectUniqueName": "C:\\Users\\Marius\\Documents\\Final_MoviesDB\\Final_MoviesDB\\Final_MoviesDB.csproj",
         "projectName": "Final_MoviesDB",
-        "projectPath": "C:\\Users\\BartHouse\\Desktop\\Final_MoviesDB2020228\\Final_MoviesDB2020227\\Final_MoviesDB2020223\\Final_MoviesDB\\Final_MoviesDB\\Final_MoviesDB.csproj",
-        "packagesPath": "C:\\Users\\BartHouse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BartHouse\\Desktop\\Final_MoviesDB2020228\\Final_MoviesDB2020227\\Final_MoviesDB2020223\\Final_MoviesDB\\Final_MoviesDB\\obj\\",
+        "projectPath": "C:\\Users\\Marius\\Documents\\Final_MoviesDB\\Final_MoviesDB\\Final_MoviesDB.csproj",
+        "packagesPath": "C:\\Users\\Marius\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marius\\Documents\\Final_MoviesDB\\Final_MoviesDB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\BartHouse\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Marius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://gallery.uipath.com/api/v2": {},
+          "https://www.nuget.org/api/v2": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
